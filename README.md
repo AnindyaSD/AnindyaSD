@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rooki3Cooki3
+- 👀 I’m interested in Web-development and machine-learning.
+- 🌱 I’m currently learning Computer Science Engineering with AI and ML specializations.
+- 💞️ I’m looking to collaborate on Full-satck development projects, Machine-learning projects.
+- 📫 How to reach me: Mail me at: ad2670@srmist.edu.in!
