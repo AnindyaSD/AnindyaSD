@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Rooki3Cooki3
-- 👀 I’m interested in Web-development and machine-learning.
-- 🌱 I’m currently learning Computer Science Engineering with AI and ML specializations.
-- 💞️ I’m looking to collaborate on Full-satck development projects, Machine-learning projects.
-- 📫 How to reach me: Mail me at: ad2670@srmist.edu.in!
+- 👀 I’m interested in Web-development (Proficient in Front-End) and AI-ML(Machine-Learning).
+- 🌱 I’m currently learning Computer Science Engineering with AI and ML specializations, Machine-Learning (Regression), Deep Learning(NN,ANN,CNN) and Computer-Vision.
+- 💞️ I’m looking to collaborate on Front-End projects(any role), Machine-learning projects(any role), Full-satck development projects.
+- 📫 How to reach me: Mail me at: ad2670@srmist.edu.in or message me on Github.
+My LinkedIn:  https://www.linkedin.com/in/anindya-dasgupta-b32337237/
